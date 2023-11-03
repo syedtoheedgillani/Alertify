@@ -1,0 +1,11 @@
+.block_alertify .alerthead {
+    font-weight: bold;
+}
+
+.block_alertify .enabled-no {
+    color: #F00;
+}
+
+.block_alertify .enabled-yes {
+    color: #0C0;
+}
