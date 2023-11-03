@@ -20,6 +20,6 @@ In summary, the Alertify plugin is an invaluable addition to any educational pla
 
 This plugin serves as a valuable ally in fostering engagement, facilitating learning, and ensuring that students make the most of their educational opportunities. Whether you're an educator, course administrator, or a student, Alertify is a tool that can significantly enhance the learning journey.
 
-**Install**
+**Install:**
 
 To install the Alertify plugin in Moodle LMS, you should paste the code into the "moodlecode/blocks/(plugin files)" directory.
