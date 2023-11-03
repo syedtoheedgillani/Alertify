@@ -1,0 +1,41 @@
+Adding Comments to the plugins
+Making profile better
+
+knowledge base can also attach documents
+
+Summary page in CRM:
+Every Staff member should see only the tickets
+1) From the projects assingned to the staff
+2) The tickets not assigned to any department will be visible to all the staff members
+
+Points:
+	Tell Darin to provide an update on the JSON files (Discussed)
+		There are some issues in the JSON files basically the users account not being created.
+		We have updated the code to use courseid instead of moodleid
+		I have to test it soo that it is not having the same issue as the courseid issue present
+
+	Tell Darin to provide an update on the Course Images (Discussed)
+		There will be no image if that were not provided in the first place
+		We have to give them a design of the course card
+
+	Tell Darin to provide an update on the PDFs Email (Users export email)
+		He have seen that and we have to discuss that again using the aggregated excel file
+
+	Tell Darin to provide on the Audios and Videos in the courses (Discussed)
+		Darin will provide me a list of the courses according to their moodleid
+
+	Tell Darin to provide on the quizzes in the courses (Discussed)
+		I have to check that again as I am seeing that there are some courses without the CE Test
+
+	As you have created new courses. So, which courses needed the Nutrition and Dietetics Feedback.
+	If those courses don't needed the Special Feedback than you don't need to create them using the other backup file.
+		Darin will just let me know which courses require special feedback
+
+Simplified Points:
+	Feedbacks (Done)
+	Quizzes (Done) (Need to be checked by me)
+	PDFs (Need Respond) (Aggregated Excel File)
+	Videos and Audios (Need to confirm) (List will be provided)
+	Course Images (Need Respond) (Course Card Design)
+	JSON Files (Need Respond) (Will provide the new export file)
+
