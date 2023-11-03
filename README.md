@@ -2,6 +2,9 @@
 
 The Alertify plugin is a valuable tool designed to enhance the engagement and performance of students within an educational course. It serves as an automated notification system, with the primary objective of reminding students about incomplete activities in the course. The plugin operates on a recurring schedule, sending reminders via email at four-day intervals to prompt students to complete their outstanding coursework.
 
+**Plugin Type:**
+Block
+
 **How it Works:**
 
 1. **Scheduled Reminders:** The Alertify plugin operates on a predefined schedule, systematically sending email reminders to students who have not completed specific activities within the course. This schedule typically sends reminders every four days, allowing students ample time to catch up on their outstanding tasks.
@@ -19,7 +22,3 @@ The Alertify plugin is a valuable tool designed to enhance the engagement and pe
 In summary, the Alertify plugin is an invaluable addition to any educational platform. It provides an efficient and user-friendly solution to boost course completion rates and enhance the overall learning experience. By sending targeted, customizable reminders every four days to students who have not completed course activities, Alertify empowers educators to support their students in achieving academic success while maintaining their privacy and data security.
 
 This plugin serves as a valuable ally in fostering engagement, facilitating learning, and ensuring that students make the most of their educational opportunities. Whether you're an educator, course administrator, or a student, Alertify is a tool that can significantly enhance the learning journey.
-
-**Install:**
-
-To install the Alertify plugin in Moodle LMS, you should paste the code into the "moodlecode/blocks/(plugin files)" directory.
