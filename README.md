@@ -1,5 +1,3 @@
-Certainly, here's a detailed description of your "Alertify" plugin, explaining how it works and its purpose:
-
 **Alertify Plugin**
 
 The Alertify plugin is a valuable tool designed to enhance the engagement and performance of students within an educational course. It serves as an automated notification system, with the primary objective of reminding students about incomplete activities in the course. The plugin operates on a recurring schedule, sending reminders via email at four-day intervals to prompt students to complete their outstanding coursework.
