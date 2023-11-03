@@ -22,7 +22,4 @@ This plugin serves as a valuable ally in fostering engagement, facilitating lear
 
 **Install**
 
-To install the Alertify plugin in Moodle LMS, you should paste the code into:
-  moodlecode/
-            └── blocks/
-                      └── (plugin files)
+To install the Alertify plugin in Moodle LMS, you should paste the code into the "moodlecode/blocks/(plugin files)" directory.
