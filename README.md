@@ -22,3 +22,5 @@ Block
 In summary, the Alertify plugin is an invaluable addition to any educational platform. It provides an efficient and user-friendly solution to boost course completion rates and enhance the overall learning experience. By sending targeted, customizable reminders every four days to students who have not completed course activities, Alertify empowers educators to support their students in achieving academic success while maintaining their privacy and data security.
 
 This plugin serves as a valuable ally in fostering engagement, facilitating learning, and ensuring that students make the most of their educational opportunities. Whether you're an educator, course administrator, or a student, Alertify is a tool that can significantly enhance the learning journey.
+
+To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c).
